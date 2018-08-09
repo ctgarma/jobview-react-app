@@ -1,6 +1,6 @@
-##GEOOP
+## jobview-react-app
 
-React App to view and add jobs (manufacturing/field service) with existing endpoints.
+React App to login, view and add jobs (manufacturing/field service) with existing endpoints.
 
 Used Create React App to develop the app.
 
